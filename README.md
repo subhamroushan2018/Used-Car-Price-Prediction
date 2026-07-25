@@ -102,7 +102,7 @@ Used-Car-Price-Prediction
 │
 ├── used-car-price-prediction.ipynb
 ├── dataset.csv
-├── model.pkl
+├── .gitgnore
 ├── requirements.txt
 └── README.md
 ```
